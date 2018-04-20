@@ -8,3 +8,5 @@ def lone_sum(a, b, c):
     elif(b == c):
         return a
     else: return a+b+c
+	
+	this has been added 
